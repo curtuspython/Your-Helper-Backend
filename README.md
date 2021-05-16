@@ -1,1 +1,1 @@
-Hello this is the project for the SPE.
+Contains the smart contract for the Your-Helper application.
